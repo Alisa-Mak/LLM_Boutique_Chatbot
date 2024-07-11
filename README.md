@@ -1,4 +1,4 @@
-### "Fine-Tune Your LLMs" Exercise for Custom Lisa's Boutique Chatbot
+### Fine-Tune Your LLMs: Exercise for Custom Lisa's Boutique Chatbot
 
 #### **Why Fine-Tuning LLMs?**
 
